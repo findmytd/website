@@ -19,3 +19,11 @@ FindMyTD is a free and fast way to find your local TD, Senator or Member of the 
 ## Screenshot
 
 ![Website-homepage-screenshot](https://user-images.githubusercontent.com/34171640/126043157-05d86fc7-2d8d-4dcc-af87-0ea5fa119b9c.png)
+
+## Fonts used
+
+Main body text: [Public Sans](https://fonts.google.com/specimen/Public+Sans)
+<br>
+Headings: [Inter](https://fonts.google.com/specimen/Inter)
+<br>
+Menu, language selector & accessibility menu: [DM Sans](https://fonts.google.com/specimen/DM+Sans)
