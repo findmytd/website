@@ -1,5 +1,5 @@
 <!-- omit in toc -->
-# Contributing to FindMyTD Markievicz
+# Contributing to FindMyTD
 
 First off, thanks for taking the time to contribute! ❤️
 
