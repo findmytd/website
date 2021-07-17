@@ -9,3 +9,9 @@
  <a href="https://github.com/findmytd/website/network"><img alt="GitHub forks" src="https://img.shields.io/github/forks/findmytd/website"></a>
  <a href="https://github.com/findmytd/website/stargazers"><img alt="GitHub stars" src="https://img.shields.io/github/stars/findmytd/website"></a>
  </p>
+
+The source code for the main components of the FindMyTD website. 
+
+## What is FindMyTD? 
+
+FindMyTD is a free and fast way to find your local TD, Senator or Member of the European Parliament.
